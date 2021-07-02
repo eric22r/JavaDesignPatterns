@@ -1,0 +1,2 @@
+module raboin_RemoteControlCommandPattern {
+}
