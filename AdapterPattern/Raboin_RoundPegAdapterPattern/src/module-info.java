@@ -1,0 +1,2 @@
+module Raboin_RoundPegAdapterPattern {
+}
