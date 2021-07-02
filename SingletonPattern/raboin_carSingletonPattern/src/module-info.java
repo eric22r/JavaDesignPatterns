@@ -1,0 +1,3 @@
+
+module raboin_carSingletonPattern {
+}
